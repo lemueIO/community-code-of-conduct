@@ -1,9 +1,3 @@
-# Hugo output directory
-/public
-
-# Vim swap files
-*.sw?
-
-# Other
-.nova/
-.hugo_build.lock
+.crypt/
+README.md
+LICENSE

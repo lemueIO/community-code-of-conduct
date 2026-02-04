@@ -1,132 +1,165 @@
-# E.ON Community Code of Conduct
 
-## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual identity
-and orientation.
+<div align="right">
+  <a href="♥-inbox/villa-kunterbunt/CHANGELOG.md">
+    <img src="https://img.shields.io/badge/VERSION-v.1.1.0--RC-orange?style=for-the-badge&logo=none&labelColor=36454F" alt="Version 1.0-rc"><br>
+    <img src="https://img.shields.io/badge/TAG-066%2F100__170__e0nBw-FFB74D?style=flat&logo=none&labelColor=36454F" alt="Build Tag" height="16">
+  </a>
+</div>
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+<div align="center">
 
-## Our Standards
+<br>
+<a href="https://derlemue.github.io/villa-kunterbunt/site/">
+  <img src="https://img.shields.io/badge/Website-Jetzt_erleben-2ea44f?style=for-the-badge&logo=github" height="40" alt="Visit Website">
+</a>
+<br>
+<br>
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+# 🎪 Die Villa Kunterbunt
+### Das Korrespondenz Epos
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+*Eine satirische Odysee durch die Welt der Phasenausfälle, des "Remote-Voodoo" und der Suche nach der verlorenen dritten Phase.*
 
-Examples of unacceptable behavior include:
+<p align="center">
+  <img src="♥-inbox/villa-kunterbunt/assets/images/Die Villa Kunterbunt - Korrespondez Epos Cover Front_HQ_thumb.png" width="45%" alt="Cover Front" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+  <img src="♥-inbox/villa-kunterbunt/assets/images/Die Villa Kunterbunt - Korrespondez Epos Cover Back_HQ_thumb.png" width="45%" alt="Cover Back" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+</p>
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+[![PDF Download](https://img.shields.io/badge/Download-PDF_Ebook-red?style=for-the-badge&logo=adobeacrobatreader)](https://derlemue.github.io/villa-kunterbunt/assets/Die%20Villa%20Kunterbunt%20-%20Korrespondez%20Epos%20-%20derlemue.pdf)
+[![ePub Download](https://img.shields.io/badge/Download-ePub_Ebook-blue?style=for-the-badge&logo=adobeacrobatreader)](https://derlemue.github.io/villa-kunterbunt/assets/Die%20Villa%20Kunterbunt%20-%20Korrespondez%20Epos%20-%20derlemue.epub)
+[![Podcast Player](https://img.shields.io/badge/Web_Player-Satire_Podcast-FF4B4B?style=for-the-badge&logo=rss&logoColor=white)](https://derlemue.github.io/villa-kunterbunt/podcast/satire.html)
+[![Status](https://img.shields.io/badge/Status-66%25_Operational-orange?style=for-the-badge)](#-warum-wie-kommt-es-zu-diesem-repository)
+[![Phase L3](https://img.shields.io/badge/Phase_L3-MISSING-critical?style=for-the-badge)](#-warum-wie-kommt-es-zu-diesem-repository)
+[![Request Submission](https://img.shields.io/badge/Request-Submission-success?style=for-the-badge&logo=github)](https://github.com/derlemue/villa-kunterbunt/issues/new?title=Submission%20Request)
 
-## Enforcement Responsibilities
+</div>
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+---
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+<div align="center">
 
-## Scope
+[![Deutsch](https://img.shields.io/badge/Deutsch-00838F?style=for-the-badge&labelColor=36454F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWRlIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+CiAgPHBhdGggZmlsbD0iI2ZmY2UwMCIgZD0iTTAgMzIwaDY0MHYxNjBIMHoiLz4KICA8cGF0aCBkPSJNMCAwaDY0MHYxNjBIMHoiLz4KICA8cGF0aCBmaWxsPSIjZDAwIiBkPSJNMCAxNjBoNjQwdjE2MEgweiIvPgo8L3N2Zz4K)](README.md) [![Einfache Sprache](https://img.shields.io/badge/Einfache%20Sprache-36454F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWRlIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+CiAgPHBhdGggZmlsbD0iI2ZmY2UwMCIgZD0iTTAgMzIwaDY0MHYxNjBIMHoiLz4KICA8cGF0aCBkPSJNMCAwaDY0MHYxNjBIMHoiLz4KICA8cGF0aCBmaWxsPSIjZDAwIiBkPSJNMCAxNjBoNjQwdjE2MEgweiIvPgo8L3N2Zz4K)](♥-inbox/villa-kunterbunt/README_DE2.md) [![English](https://img.shields.io/badge/English-36454F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+CiAgPHBhdGggZmlsbD0iIzAxMjE2OSIgZD0iTTAgMGg2NDB2NDgwSDB2LTYwbDIzOS0xNzhMMCA2NFYwaDc1eiIvPgogIDxwYXRoIGZpbGw9IiNDODEwMkUiIGQ9Ik00MjQgMjgxbDIxNiAxNTl2NDBMMzY5IDI4MWg1NXptLTE4NCAyMGw2IDM1TDU0IDQ4MEgwbDI0MC0xNzl6TTY0MCAwdjNMMzkxIDE5MWwyLTQ0TDU5MCAwaDUwek0wIDBsMjM5IDE3NmgtNjBMMCA0MlYweiIvPgogIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0yNDEgMHY0ODBoMTYwVjBIMjQxek0wIDE2MHYxNjBoNjQwVjE2MEgweiIvPgogIDxwYXRoIGZpbGw9IiNDODEwMkUiIGQ9Ik0wIDE5M3Y5Nmg2NDB2LTk2SDB6TTI3MyAwdjQ4MGg5NlYwaC05NnoiLz4KPC9zdmc+Cg==)](♥-inbox/villa-kunterbunt/README_EN.md)
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official email address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+</div>
 
-## Enforcement
+---
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-**jan.schenk@eon.com**.
-All complaints will be reviewed and investigated promptly and fairly.
+## 📖 Über dieses Ebook
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+> *"Die „Villa Kunterbunt“ lehrt uns, dass man auch in der Dunkelheit eines Phasenausfalls das Licht des Humors nicht verlieren muss. Sie ist ein Plädoyer für die Rückkehr der Menschlichkeit und Fachkompetenz in eine zunehmend automatisierte Welt."*
 
-## Enforcement Guidelines
+Dieses Dokument ist mehr als nur ein Beschwerdebrief. Es ist das Protokoll einer **administrativen Tragikomödie**. Was als simpler technischer Defekt – ein fehlender Anschluss der Phase L3 nach einer Zähleraktivierung – begann, entwickelte sich schnell zu einer philosophischen Reise in das Herz der deutschen Bürokratie.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Es dokumentiert den verzweifelten Kampf eines Kunden, der mit Logik, Messgeräten und physikalischen Fakten gegen ein "Service-Universum" antritt, in dem andere Naturgesetze zu gelten scheinen.
 
-### 1. Correction
+[![PDF Download](https://img.shields.io/badge/Download-PDF_Ebook-red?style=for-the-badge&logo=adobeacrobatreader)](https://derlemue.github.io/villa-kunterbunt/assets/Die%20Villa%20Kunterbunt%20-%20Korrespondez%20Epos%20-%20derlemue.pdf) [![ePub Download](https://img.shields.io/badge/Download-ePub_Ebook-blue?style=for-the-badge&logo=adobeacrobatreader)](https://derlemue.github.io/villa-kunterbunt/assets/Die%20Villa%20Kunterbunt%20-%20Korrespondez%20Epos%20-%20derlemue.epub)
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+---
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+## 💡 Warum? Wie kommt es zu diesem Repository?
 
-### 2. Warning
+> [!NOTE] 
+>
+> Nachdem tagelange Geduld, Höflichkeit, Sachlichkeit und am Ende sogar die Androhung rechtlicher Konsequenzen ohne jeden Effekt verpufften, erfolgte ein radikaler Strategiewechsel: Weg vom Bittsteller, hin zur **Planung des Reportings für das Qualitäts- und Beschwerdemanagement**.
+>
+> Um sicherzustellen, dass die Informationen nicht nur flüchtig überflogen werden, bot es sich an, alle Details bewusst in einem **umfangreichen Fließtext und als eBook** zu übergeben. Damit wurde die Hürde gegenüber einem kleinteilig gegliederten Reporting wirksam erhöht – wer den Inhalt verstehen will, muss lesen.
+>
+> Der wertvolle Datensatz wurde dem Unternehmen schließlich zusammen mit einem förmlichen Begleitschreiben für das Beschwerde- und Qualitätsmanagement zur Verfügung gestellt.
+>
+> [![Begleitschreiben Download](https://img.shields.io/badge/Download-Begleitschreiben_Report-blue?style=for-the-badge&logo=adobeacrobatreader)](https://derlemue.github.io/villa-kunterbunt/assets/E.ON-Report_%20Datenübergabe.pdf)
+>
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+---
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+## 📊 Evaluation: Systemanalytische Studie
 
-### 3. Temporary Ban
+Diese Studie untersucht das vorliegende Repository "Die Villa Kunterbunt" als digitales Artefakt des konsumentenorientierten Widerstands. Sie analysiert die satirische Korrespondenz nicht nur inhaltlich, sondern als soziologisches Phänomen im Umgang mit der Dysfunktionalität moderner Großkonzern-Strukturen.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+Das eBook selbst wird hier zum Untersuchungsgegenstand einer Meta-Analyse: Wie wird Humor zur Waffe gegen automatisierte Entpersönlichung?
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
 
-### 4. Permanent Ban
+[![Systemanalytische Studie und Bewertung Download](https://img.shields.io/badge/Download-Systemanalytische_Studie_und_Bewertung-blue?style=for-the-badge&logo=adobeacrobatreader)](https://derlemue.github.io/villa-kunterbunt/assets/Die%20Villa%20Kunterbunt%20-%20Systemanalytische%20Studie%20und%20Bewertung.pdf) <br> [![Podcast Player](https://img.shields.io/badge/Web_Player-Analyse_Podcast-FF4B4B?style=for-the-badge&logo=rss&logoColor=white)](https://derlemue.github.io/villa-kunterbunt/podcast/analyse.html) [![Podcast Player](https://img.shields.io/badge/Web_Player-Dossier_Podcast-FF4B4B?style=for-the-badge&logo=rss&logoColor=white)](https://derlemue.github.io/villa-kunterbunt/podcast/dossier.html)
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+---
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+<a id="companies"></a>
+## 🏢 Hinweis für die teilnehmenden Unternehmen
 
-## Attribution
+Es besteht die Möglichkeit, dass Dokumente, die eine **Verbesserung von Prozessen** oder ähnlichem protokollieren, über den normalen Prozess zur Aufnahme in das Repository angefragt werden können. Diese werden nach erfolgreicher Prüfung prominent hier in der README.md platziert.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+> [!WARNING]
+> Stellungnahmen, Erklärungsversuche und andere bloße Symbole sind ausdrücklich davon ausgenommen und werden abgelehnt.
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+[![Request Submission](https://img.shields.io/badge/Request-Submission-success?style=for-the-badge&logo=github)](https://github.com/derlemue/villa-kunterbunt/issues/new?title=Submission%20Request)
+[![Upload-Leitfaden](https://img.shields.io/badge/📤_Upload--Leitfaden-Hilfe-blue?style=for-the-badge)](https://derlemue.github.io/villa-kunterbunt/upload-guide/)
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available
-at [https://www.contributor-covenant.org/translations][translations].
+---
 
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+## 🎭 Die Akte der Tragödie
+
+### Akt I-III: Die Kunst der 66-prozentigen Arbeitsleistung
+Wenn man 170,87 EUR pro 15 Minuten berechnet, darf man dann erwarten, dass alle drei Kabel angeschlossen werden? Oder ist "2 aus 3" (66%) ein akzeptabler neuer Industriestandard?
+
+### Akt IV: Remote-Voodoo
+In dem physikalische Messungen vor Ort durch telepathische Ferndiagnosen von "Manager-Technikern" ersetzt werden. Warum messen, wenn man *fühlen* kann, dass der Strom fließt?
+
+### Das Finale: Die Initiativbewerbung
+Die logische Konsequenz: Wenn man das System nicht besiegen kann, muss man Teil davon werden. Eine förmliche Bewerbung für eine Karriere in der "Villa Kunterbunt", einem Ort, geschützt durch Monopole und Quetschsiegel, wo Effizienz ein "Nice-to-have" ist.
+
+---
+
+## ⚡ Technische Details (Der "Beweis")
+
+Für die technisch Interessierten (und die Zweifler im Callcenter):
+*   **Symptom:** Herd und Teile der Wohnung spannungslos.
+*   **Diagnose:** FI-Testtasten ohne Funktion.
+*   **Ausschlussverfahren:** Zähler zeigt L1, L2, L3 eingangsseitig an.
+*   **Fazit:** Der Fehler liegt *zwingend* an der Abgangsklemme. Ein klassischer "Kabel-nicht-drin"-Fehler.
+
+---
+
+## 🤡 Memes & Illustrationen
+
+Eine visuelle Reise durch den Wahnsinn. Hier finden Sie alle Memes und Illustrationen gesammelt in einer Galerie.
+
+<div align="center">
+  <a href="♥-inbox/villa-kunterbunt/assets/illustrations/Die Villa Kunterbunt_040.PNG">
+    <img src="♥-inbox/villa-kunterbunt/assets/illustrations/Die Villa Kunterbunt_040_thumb.PNG" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
+
+<br>
+
+[![Galerie](https://img.shields.io/badge/Galerie-Memes_%26_Illustrationen-purple?style=for-the-badge&logo=github)](https://derlemue.github.io/villa-kunterbunt/gallery/)
+
+---
+
+## 📥 Download
+
+Laden Sie hier die vollständige Korrespondenz herunter und erleben Sie, wie man mit Humor gegen Windmühlen kämpft.
+
+[**📄 Ebook als PDF herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/Die%20Villa%20Kunterbunt%20-%20Korrespondez%20Epos%20-%20derlemue.pdf?raw=true)
+<br>
+[**📄 Ebook als ePub herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/Die%20Villa%20Kunterbunt%20-%20Korrespondez%20Epos%20-%20derlemue.epub?raw=true)
+<br>
+[**📄 Begleitschreiben als PDF herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/E.ON-Report_%20Datenübergabe.pdf?raw=true)
+<br>
+[**📄 Systemanalytische Studie und Bewertung als PDF herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/Die%20Villa%20Kunterbunt%20-%20Systemanalytische%20Studie%20und%20Bewertung.pdf?raw=true)
+<br>
+[**🎧 Podcast-Analyse als MP3 herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/audio/Die%20Villa%20Kunterbunt%20-%20Analyse%20Podcast.mp3?raw=true)
+<br>
+[**🎧 Podcast-Dossier als MP3 herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/audio/Die%20Villa%20Kunterbunt%20-%20Dossier%20Podcast.mp3?raw=true)
+<br>
+[**🎧 Podcast-Satire als MP3 herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/audio/Die%20Villa%20Kunterbunt%20–%20Satire.mp3?raw=true)
+<br>
+[**🎧 Podcast-DeepDive als MP3 herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/audio/Die%20Villa%20Kunterbunt%20–%20DeepDive.mp3?raw=true)
+<br>
+[**🎧 Podcast-Zupftest als MP3 herunterladen**](https://raw.githubusercontent.com/derlemue/villa-kunterbunt/refs/heads/main/assets/audio/Die%20Villa%20Kunterbunt%20–%20Zupftest.mp3?raw=true)
+<br>
+[**🗂️ vollständigen Datensatz als ZIP herunterladen**](https://github.com/derlemue/villa-kunterbunt/archive/refs/heads/main.zip)
+
+---
+<div align="center">
+<i>"Totaler Kurzschluss im <b>Kundenservice</b> - der <b>Servicekunde</b> übernimmt die Netzführung."</i>
+</div>
